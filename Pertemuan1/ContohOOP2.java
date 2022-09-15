@@ -1,6 +1,8 @@
+package Pertemuan1;
+
 import java.util.ArrayList;
 
-public class contohoop2 {
+public class ContohOOP2 {
     public static void main(String[] args) {
         ArrayList<Integer> array = new ArrayList<>();
         array.add(12);

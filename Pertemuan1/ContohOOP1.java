@@ -1,3 +1,5 @@
+package Pertemuan1;
+
 public class contohoop {
     public static void main(String[] args) {
         Manusia<Integer> a = new Manusia<>();
