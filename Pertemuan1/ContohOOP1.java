@@ -1,6 +1,6 @@
 package Pertemuan1;
 
-public class contohoop {
+public class ContohOOP1 {
     public static void main(String[] args) {
         Manusia<Integer> a = new Manusia<>();
         a.nama = "Andi";
