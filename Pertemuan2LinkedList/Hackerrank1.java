@@ -1,5 +1,4 @@
-package Pertemuan2;/* Dilarang mengimpor library lain */
-import java.util.Scanner;
+package Pertemuan2LinkedList;/* Dilarang mengimpor library lain */
 
 public class Hackerrank1 {
 

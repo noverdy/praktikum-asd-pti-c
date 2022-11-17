@@ -1,4 +1,4 @@
-package Pertemuan2;
+package Pertemuan2LinkedList;
 
 import java.util.LinkedList;
 
